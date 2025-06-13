@@ -38,7 +38,7 @@
 - **데이터 처리**: Pandas, NumPy, Calendar
 - **시각화**: Matplotlib, Seaborn, Koreanize-matplotlib
 - **모델링**: Scikit-learn, Keras
-- **알고리즘**: RandomForestRegressor, MultiOutputRegressor
+- **알고리즘**: RandomForestRegressor
 
 ---
 
@@ -51,7 +51,6 @@
 
 2. **모델링**
    - Random Forest 기반 회귀 모델
-   - 다중 타겟 예측: MultiOutputRegressor
    - 하이퍼파라미터 튜닝: GridSearchCV / RandomizedSearchCV
 
 3. **성능 평가**
